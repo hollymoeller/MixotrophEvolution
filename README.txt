@@ -49,5 +49,5 @@ Experimental Data -- directory containing experimental data files compiled from 
 	photo_highlight.csv -- photosynthesis measurements (gC per gC per day)
 	resp_highlight.csv -- respiration measurements (gC per gC per day)
 
-All analysis conducted in MATLAB: '9.9.0.1538559 (R2020b) Update 3'
+All analysis conducted in MATLAB: '9.9.0.1538559 (R2020b) Update 3'. Installation of the Optimization Toolbox is required to simulate the model.
 
