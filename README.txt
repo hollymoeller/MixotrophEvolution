@@ -1,4 +1,4 @@
-Archibald, K. M., S. Dutkiewicz, C. Laufkötter, and H. V. Moeller (submitted). Evolved reductions in respiration in marine mixotrophic microbes under thermal stress. The American Naturalist.
+Archibald, K. M., S. Dutkiewicz, C. Laufkötter, and H. V. Moeller (2025). Evolution promotes resilience of marine mixotrophic metabolic strategies to thermal stress. The American Naturalist.
 
 Code Author: Kevin Archibald, karchibald@ucsb.edu
 
